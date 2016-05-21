@@ -16,7 +16,7 @@ We think that more intelligent land use in urban, peri-urban, rural, and aquatic
 - Create a MashambaHack Global Community
 - Create a list of easily accessible MashambaHack Proposals/Projects
   - General Ideation on Github
-  - 
+  - Closed Development on Gitlab for some ideas?
 - Create an [awesome list](https://github.com/MashambaHack/UAT) of all the existing UrbanAgTech things
 
 
