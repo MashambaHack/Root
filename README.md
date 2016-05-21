@@ -24,11 +24,11 @@ We think that more intelligent land use in urban, peri-urban, rural, and aquatic
 1. MashambaHack Talk  
 Create a global chat community for real time convo
 
-- MashambaHack Proposals/Projects  
+1. MashambaHack Proposals/Projects  
 Create a "UAT Problem" repo to collect issues urban farmers are having
     - Nice to simple web form to collect farmer frustrations that automattically pushes to the proposal repo issues
   - Create Project repos as needed from issues
-- [Urban Ag Tech Curated Awesome List](https://github.com/MashambaHack/UAT-CAL) (UAT-CAL)
+1. [Urban Ag Tech Curated Awesome List](https://github.com/MashambaHack/UAT-CAL) (UAT-CAL)
   - Existing collaboration efforts and orgs
     - FarmHack
   - Specific Tech Areas
@@ -40,3 +40,4 @@ Create a "UAT Problem" repo to collect issues urban farmers are having
     - Simple tools
     - App Templates/frameworks
     - SAAS Offerings
+    
