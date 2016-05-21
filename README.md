@@ -1,4 +1,4 @@
-# Welcome to MashambaHack's Root
+# MashambaHack Root
 
 The Root is where we list MashambaHack Ideas.  
 Let's Begin!
@@ -7,13 +7,36 @@ You may or may not know that we are in a deep ecological crisis.  Our population
 
 That's a lot of food.
 
-Mashamba doesnt think we need more land or more chemicals, or more genetic tinkering with plants that has served our species well for centuries.
+Mashamba doesn't think we need more land or more chemicals, or more genetic tinkering with plants that has served our species well for centuries.
 
-We think that more intelligent land use in urban, peri-urban, rural, and aquatic areas is the key to abundance.  We think crowdgrowing is a solutoin, we think open source technology is a model and solution.
+We think that more intelligent land use in urban, peri-urban, rural, and aquatic areas is the key to abundance.  We think crowdgrowing is a solution, we think open source technology is a model and solution.
 
 ## Goals
 
 - Create a MashambaHack Global Community
-- Create a list of easily accessible MashambaHack Projects
+- Create a list of easily accessible MashambaHack Proposals/Projects
   - General Ideation on Github
-- Create an awesome list of all existing AgTech/UrbanAgTech things
+  -
+- Create an [awesome list](https://github.com/MashambaHack/UAT-CAL) of all the existing UrbanAgTech things
+
+
+## Projects
+1. MashambaHack Talk  
+Create a global chat community for real time convo
+
+- MashambaHack Proposals/Projects  
+Create a "UAT Problem" repo to collect issues urban farmers are having
+    - Nice to simple web form to collect farmer frustrations that automattically pushes to the proposal repo issues
+  - Create Project repos as needed from issues
+- [Urban Ag Tech Curated Awesome List](https://github.com/MashambaHack/UAT-CAL) (UAT-CAL)
+  - Existing collaboration efforts and orgs
+    - FarmHack
+  - Specific Tech Areas
+    - Geospatial
+    - Drones
+    - 3D Printing
+    - Web
+  - Applications
+    - Simple tools
+    - App Templates/frameworks
+    - SAAS Offerings
