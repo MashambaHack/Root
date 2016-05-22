@@ -7,9 +7,15 @@ You may or may not know that we are in a deep ecological crisis.  Our population
 
 That's a lot of food.
 
-Mashamba doesn't think we need more land or more chemicals, or more genetic tinkering with plants that has served our species well for centuries.
+Mashamba doesn't think we need more land or more chemicals, or more genetic tinkering with plants and animals that have served our species well for centuries.
 
 We think that more intelligent land use in urban, peri-urban, rural, and aquatic areas is the key to abundance.  We think crowdgrowing is a solution, we think open source technology is a model and solution.
+
+Developers sitting down with urban farmers and treating them like stakeholders to identify their obstacles, bottlenecks, and problems will result in new open source technologies to help the human race feed inself in a sustainable manner.
+
+Right now, food needs open source like open source needs food.
+
+MashambaHack is a global initiative to do that.
 
 ## Goals
 
