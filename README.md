@@ -11,7 +11,7 @@ Mashamba doesn't think we need more land or more chemicals, or more genetic tink
 
 We think that more intelligent land use in urban, peri-urban, rural, and aquatic areas is the key to abundance.  We think crowdgrowing is a solution, we think open source technology is a model and solution.
 
-Developers sitting down with urban farmers and treating them like stakeholders to identify their obstacles, bottlenecks, and problems will result in new open source technologies to help the human race feed inself in a sustainable manner.
+Developers sitting down with urban farmers and treating them like stakeholders to identify their obstacles, bottlenecks, and problems will result in new open source technologies to help the human race feed itself in a sustainable manner.
 
 Right now, food needs open source like open source needs food.
 
@@ -30,9 +30,12 @@ MashambaHack is a global initiative to do that.
 1. MashambaHack Talk  
 Create a global chat community for real time collaboration
   - Identify needs, list platforms
-  
+1. MashambaHack Ideas
+List of potential idea for MashambaHack projects
+  - Create a seperate repo, private trello board, git lab?
+  - 
 
-1. MashambaHack Proposals/Projects  
+1. MashambaHack Proposal/Project/Problem Form  
 Create a "UAT Problem" repo to collect issues urban farmers are having
   - Nice to simple web form to collect farmer frustrations that automattically pushes to the proposal repo issues
       - [Issue created](https://github.com/MashambaHack/Root/issues/1)
@@ -49,3 +52,4 @@ Create a "UAT Problem" repo to collect issues urban farmers are having
     - Simple tools
     - App Templates/frameworks
     - SAAS Offerings
+1. Create a list of Hac
