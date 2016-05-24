@@ -28,11 +28,13 @@ MashambaHack is a global initiative to do that.
 
 ## Projects
 1. MashambaHack Talk  
-Create a global chat community for real time convo
+Create a global chat community for real time collaboration
+  - Identify needs, list platforms
+  
 
 1. MashambaHack Proposals/Projects  
 Create a "UAT Problem" repo to collect issues urban farmers are having
-    - Nice to simple web form to collect farmer frustrations that automattically pushes to the proposal repo issues
+  - Nice to simple web form to collect farmer frustrations that automattically pushes to the proposal repo issues
       - [Issue created](https://github.com/MashambaHack/Root/issues/1)
   - Create Project repos as needed from issues
 1. [Urban Ag Tech](https://github.com/MashambaHack/UAT) Curated Awesome List
